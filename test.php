@@ -1,5 +1,5 @@
 <?php
-echo "chirag";
-echo "jignesh";
+echo "chirag \t";
+echo "jignesh \n";
 //phpinfo();
 ?>
