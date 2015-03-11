@@ -1,4 +1,4 @@
 <?php
 echo "chirag";
-phpinfo();
+//phpinfo();
 ?>
